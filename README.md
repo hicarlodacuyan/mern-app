@@ -1,0 +1,1 @@
+This is a code-along tutorial from [Learn The MERN Stack by Traversy Media](https://www.youtube.com/watch?v=UXjMo25Nnvc&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&start_radio=1&rv=UXjMo25Nnvc&t=2636) YouTube series for me to practice and learn the MERN stack.
